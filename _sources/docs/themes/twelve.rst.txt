@@ -8,7 +8,6 @@ Variations
 ----------
 
 - **light** - A lighter variation that works great on white backgrounds or lighter themed web sites
-- **smallarrows** - Shows smaller navigation arrows
 
 Defaults
 --------
